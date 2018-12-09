@@ -2,7 +2,7 @@
 
 In this tutorial we will be exploring and analysing the Titanic [dataset](https://www.kaggle.com/c/titanic/data) which is available on [kaggle](https://www.kaggle.com). This tutorial will provide you a basic approach towards understanding the data. We will proceed with small steps with me explaining each step then build upon these to make conclusions. It is a perfect turorial for those who are new to data science and wants to enter into a kaggle competition after completing an online course. So Let's get started.
 
-## Overview of the Comptetion
+## Overview of the Competition
 
 ### Description
 
@@ -36,7 +36,7 @@ The file should have exactly 2 columns:
 | 894 | 0 |
 | . | . |
 
-For more information about competion go [here.](https://www.kaggle.com/c/titanic#description)
+For more information about competition go [here.](https://www.kaggle.com/c/titanic#description)
 
 
 
