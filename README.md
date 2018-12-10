@@ -38,5 +38,27 @@ The file should have exactly 2 columns:
 
 For more information about competition go [here.](https://www.kaggle.com/c/titanic#description)
 
+## Plan of Action
+
+Our plan of action is laid out in these following tasks:
+
+#### 1. Understanding the Data
+
+In this we will load our data and then clean our data to reveal its mysteries we will do these using python libraries numpy and pandas. Then we will find our dependent and independent variables, identify their types, missing data and much more.
+
+#### 2. Exploratory Data Analysis
+
+It is quite clear with the name itself. In this we will find the patterns(aka mysteries) in each variables using our wand seaborn.
+
+#### 3. Predictions using Machine Learning
+
+In this we will use Logistic Regression to predict the number of passengers who survived. There will be lot of fine tuning of the   model for better predictions. 
+
+#### 4. Evaluation
+
+Finally, we will evaluate the model using cross-validation(K-fold) and validation set approach(train-test-split).
+
+You can check out all the action here.
+
 
 
